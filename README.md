@@ -13,7 +13,6 @@ It is useful to always run as administrator. The following URL shows the details
 http://cufly.cf/p
 
 Leave it until the scan is complete.
-
 When a virus or suspicious file is detected, it will be deleted automatically.
 If no virus is detected, the scan only ends.
 ===============================================
