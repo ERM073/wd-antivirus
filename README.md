@@ -17,3 +17,9 @@ Leave it until the scan is complete.
 When a virus or suspicious file is detected, it will be deleted automatically.
 If no virus is detected, the scan only ends.
 ===============================================
+
+このバッチファイルは、Windows Defenderのウイルス定義リストを自動で更新し、検出されたウイルスを自動的に除去することができます。
+あなたのPCに負荷をかけているセキュリティソフトをアンインストールしましょう！
+このツールの著作権は、BSDライセンスに基づいています。
+
+使い方は同梱されている"必ず読んでください"をご覧ください。
