@@ -7,7 +7,6 @@ This tool is copyrighted under the BSD License.
 
 # How to use
 
-===============================================
 1. Run the included Bat file as administrator
 It is useful to always run as administrator. The following URL shows the details.
 http://cufly.cf/p
@@ -15,7 +14,7 @@ http://cufly.cf/p
 Leave it until the scan is complete.
 When a virus or suspicious file is detected, it will be deleted automatically.
 If no virus is detected, the scan only ends.
-===============================================
+
 
 このバッチファイルは、Windows Defenderのウイルス定義リストを自動で更新し、検出されたウイルスを自動的に除去することができます。
 あなたのPCに負荷をかけているセキュリティソフトをアンインストールしましょう！
