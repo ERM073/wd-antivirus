@@ -15,6 +15,8 @@ Leave it until the scan is complete.
 When a virus or suspicious file is detected, it will be deleted automatically.
 If no virus is detected, the scan only ends.
 
+Note! This tool cannot be used if Windows Defender is turned off.
+
 # wd-antivirus
 WindowsDefenderを使用してウイルスをスキャンするためのシンプルで強力なスクリプト
 
@@ -32,6 +34,8 @@ http://cufly.cf/p
 
 3.ウィルスや疑わしいファイルが検知されると自動的に削除されます。
 ウィルスが検知されなかった場合はスキャンのみで終了します。
+
+注意！Windows Defenderがオフになっている場合、このツールは使用できません。
 
 ![スクリーンショット (27)](https://user-images.githubusercontent.com/65692907/127774643-047dbf4d-f7fb-4266-b5e7-c24f41522604.png)
 
